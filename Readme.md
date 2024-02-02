@@ -22,8 +22,8 @@ In this project, we will be diving into the world of game development by recreat
 
 To get started with the project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/arcade-project.git`
-2. Install the required dependencies: ``
+1. Clone the repository
+2. Install the required dependencies
 
 ## Usage
 
